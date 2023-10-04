@@ -1,5 +1,5 @@
 # ChatGPT-LLM 
-
+https://www.notion.so/6045e646cc124132b85ccd5e0bc1b7ab
 # 스토리봇 - 유아용 동화 스토리봇 (유아용 동화 읽기, 번역 도우미)
 
 1. **프로젝트 개요**
